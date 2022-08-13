@@ -23,7 +23,40 @@
 </div>
 
 <div align="center"> 
-  <a href="https://www.instagram.com/nataliaberniche" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nataliaheloisa95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nat%C3%A1lia-berniche-668736222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/fabriciovrsilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fabriciomdasilva8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fabriciomsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
+<div>
+  
+  <h2> Materias Absorvidas na graduação em Sistema de Informação</h2>
+  
+  <li>FUNDAMENTOS DE REDES DE COMPUTADORES</li>
+  <li>INTRODUÇÃO A PROGRAMAÇÃO ESTRUTURADA EM C</li>
+  <li>INTRODUÇÃO A SEGURANÇA DA INFORMAÇÃO</li>
+  <li>ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES</li>
+  <li>PLANEJAMENTO DE CARREIRA E SUCESSO PROFISSIONAL</li>
+  <li>BANCO DE DADOS</li>
+  <li>COMPUTAÇÃO EM NUVEM E WEB SERVICES EM LINUX</li>
+  <li>DESENVOLV. WEB EM HTML5, CSS, JAVASCRIPT E PHP</li>
+  <li>PARADIGMAS DE LING. DE PROGRAMAÇÃO EM PYTHON</li>
+  <li>PENSAMENTO COMPUTACIONAL</li>
+  <li>ANÁLISE DE DADOS</li>
+    <li>COMPORTAMENTO ORGANIZACIONAL</li>
+    <li>ESTRUTURA DE DADOS EM C</li>
+    <li>NEGÓCIOS ELETRÔNICOS</li>
+    <li>SISTEMAS OPERACIONAIS COM PRÁTICA EM LINUX</li>
+    <li>ENGENHARIA DE SOFTWARE</li>
+    <li>GESTÃO DE SERVIÇOS EM TI</li>
+    <li>MATEMÁTICA E LÓGICA</li>
+    <li>MÉTODOS MATEMÁTICOS PARA APOIO A DECISÃO</li>
+    <li>MODELAGEM DE SISTEMAS COM UML</li>
+  
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  
+  
+  
