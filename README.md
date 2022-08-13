@@ -54,5 +54,8 @@
     <li>MÉTODOS MATEMÁTICOS PARA APOIO A DECISÃO</li>
     <li>MODELAGEM DE SISTEMAS COM UML</li>
 
-  
+  </div>
+  <h2> Aprendizado na Labenu </h2>
+  ![image](https://user-images.githubusercontent.com/87395533/184513723-a7322548-c570-4651-a2a6-003e69773227.png)
+
   
