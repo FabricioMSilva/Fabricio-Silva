@@ -18,7 +18,7 @@
   <img align="center" alt="Fabricio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fabricio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fabricio-React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
- <img align="center" alt="Fabricio-Js" height="40" width="50" src="https://www.flaticon.com/br/icones-gratis/php" />
+ <img align="center" alt="Fabricio-Js" height="40" width="50" src="https://www.php.net/images/logos/new-php-logo.svg" />
   <img align="center" alt="Fabricio-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 </div>
 
