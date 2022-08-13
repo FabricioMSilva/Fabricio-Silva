@@ -52,11 +52,6 @@
     <li>MATEMÁTICA E LÓGICA</li>
     <li>MÉTODOS MATEMÁTICOS PARA APOIO A DECISÃO</li>
     <li>MODELAGEM DE SISTEMAS COM UML</li>
-  
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  
+
   
   
